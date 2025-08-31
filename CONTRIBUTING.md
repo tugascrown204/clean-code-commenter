@@ -8,6 +8,12 @@ Thank you for your interest in contributing to Clean Code Commenter!
 3. Make your changes and commit them.
 4. Push to your branch and submit a pull request.
 
+## Coding Standards
+When contributing, please adhere to the following coding standards:
+- Follow the project's style guide for code formatting.
+- Write clear and concise comments for complex logic.
+- Ensure code is properly tested before submission.
+
 ## Issues
 If you find a bug or have a feature request, please open an issue on the GitHub repository.
 
